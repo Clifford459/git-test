@@ -4,8 +4,13 @@ font-family: Georgia, "Times New Roman", Times, serif;
 }
 html {background-color: rgb(246, 148, 209);} 
 body, div, span, applet, object, iframe,
+
 h1 {color: black; font-size: 80px; opacity: 1; text-align: center;}
- h2, h3, h4, h5, h6, 
+
+h2 {color: black; font-size: 30px; text-align: center;}
+.button {text-align: center; Font-size: 15px; color: black; background-color: orange; border-radius: 20px;}
+
+h3, h4, h5, h6, 
  p {color: blue;
 	margin: 0;
 	padding: 0;
@@ -24,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 3;
 }
+
 footer {font-size: 10px; opacity: 0.8; }
 ol, ul {
 	list-style: none;

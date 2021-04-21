@@ -19,7 +19,7 @@ h3, h4, h5, h6,
 	font-family:Georgia, 'Times New Roman', Times, serif;
 	vertical-align: baseline;
 }
-img {display: block; margin: 0 auto;}
+img {border: 10px; border-style: inset; display: block; margin: 0 auto;}
 
  
 /* HTML5 display-role reset for older browsers */
